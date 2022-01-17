@@ -1,5 +1,12 @@
 # Test
 
+## General
+
+[1- Settings](#settings)
+[2- Before you start](#before-you-start)
+[3- Libraries Used](#libraries-used)
+[4- About the project](#about-the-project)
+[5- Notes](#notes)
 
 ## Settings
 
@@ -18,7 +25,7 @@ This project requires the following
 
 This is a app built with Kotlin.
 
-## Libraries Used:
+## Libraries Used
 - MVVM - ViewModel
 - Fragments
 - Safe Args
