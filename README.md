@@ -7,6 +7,8 @@ This project has been created with gradle version 7.0, to build please check tha
 
 ![](screenshots/settings.png)
 
+[Go to Real Cool Heading section](#notes)
+
 ## Before you start
 This project requires the following
 
