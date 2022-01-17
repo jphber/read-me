@@ -2,15 +2,15 @@
 
 ## General
 
-[1- Settings](#settings)
+- [Settings](#settings)
 
-[2- Before you start](#before-you-start)
+- [Before you start](#before-you-start)
 
-[3- Libraries Used](#libraries-used)
+- [Libraries Used](#libraries-used)
 
-[4- About the project](#about-the-project)
+- [About the project](#about-the-project)
 
-[5- Notes](#notes)
+- [Notes](#notes)
 
 ## Settings
 
